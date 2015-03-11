@@ -7,6 +7,24 @@ html
     background-size: cover;
 }
 
+#LoginBar
+{
+    width: auto;
+    height: 35px;
+    background: linear-gradient(#a5acb2, #3f4245);
+    border-radius: 20px 20px;
+}
+
+#Youtube 
+{
+    margin-top: 5px;
+    margin-left: 1830px;
+}
+
+#Twitch 
+{
+    margin-top: -1140px;
+}
 .special
 {
 	color: green;
