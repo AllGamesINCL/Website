@@ -1,6 +1,6 @@
 html
 {
-    background: url(BackgroundImage.jpg) no-repeat center center fixed; 
+    background: url(img/BackgroundImage.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -24,8 +24,4 @@ html
 #Twitch 
 {
     margin-top: -1140px;
-}
-.special
-{
-	color: green;
 }
